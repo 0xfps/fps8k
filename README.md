@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ## 📊 My GitHub statistics
-[fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)
+![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)
 
 
 🦜 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my mail.</a>
