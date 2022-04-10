@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📊 My GitHub statistics
-![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)
+<!-- ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k) -->
+<img src="https://github-readme-stats.vercel.app/api?username=fps8k&show_icons=true&theme=dark" width="400">
 
 
 > - 🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer">my mail.</a>
