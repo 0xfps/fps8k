@@ -26,7 +26,10 @@ I am looking for people who know more than me in the Smart Contract ecosystem to
 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my email.</a>
 
 ## Contact me on my socials
-<a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px"/></a> <a href="https://twitter.com/fps8k">Twitter</a> <a href="https://instagram.com/fps8k">Instagram</a> <a href="https://reddit.com/u/fps16k">Reddit</a>
+<a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px"/></a>
+<a href="https://twitter.com/fps8k"><img src="https://simpleicons.org/icons/twitter.svg" width="20px" height="20px"/></a>
+<a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px"/></a>
+<a href="https://reddit.com/u/fps16k"><img src="https://simpleicons.org/icons/reddit.svg" width="20px" height="20px"/></a>
 
 
 
