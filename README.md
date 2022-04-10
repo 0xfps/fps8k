@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 🧠📝 In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a lot. My repository <a target='_blank' href='https://github.com/fps8k/my-solidity'>`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written.
 
-💰 I hope to land a blockchain job by August this year.
+<!-- 💰 I hope to land a blockchain job by August this year.-->
 
-👼🏾 I am looking for people who know more than me in the Smart Contract ecosystem to collaborate and learn more.
+👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to collaborate and learn more and grow.
 
 <br/>
 
