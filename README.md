@@ -31,7 +31,9 @@ You can ask me any thing via reaching me through email at <a href="mailto: antho
 <a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px" color="#E4405F" style="margin-left: 10px;"/></a>
 <a href="https://reddit.com/u/fps16k"><img src="https://simpleicons.org/icons/reddit.svg" width="20px" height="20px" color="#FF4500" style="margin-left: 10px;"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <br/><br/><br/><br/>
