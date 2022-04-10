@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://simpleicons.org/icons/adobeacrobatreader.svg"/>
+
 My name is Anthony, fps is my nickname and a name I use across all my social media handles. I am a 19 year old male (He/Him). <br/><br/>
 
 I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
