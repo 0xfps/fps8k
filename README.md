@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
 
-🧠📝 In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a whole lot. My repository <a href='https://github.com/fps8k/my-solidity' target="_blank" rel="noopener noreferrer">`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written. And I have also forked a lot of repos that I read and learn their Smart Contract codes.
+🧠📝 I am a voracious learner and writer of Smart Contracts, deployable on the Ethereum network, and so far I have learnt a whole lot. My repository <a href='https://github.com/fps8k/my-solidity' target="_blank" rel="noopener noreferrer">`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written. And I have also forked a lot of repos that I read and learn their Smart Contract codes.
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
