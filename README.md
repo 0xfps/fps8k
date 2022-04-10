@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 
 🧠📝 In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a lot. My repository <a target='_blank' href='https://github.com/fps8k/my-solidity'>`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written.
 
+💰 I hope to land a blockchain job by August this year.
+
 👼🏾 I am looking for people who know more than me in the Smart Contract ecosystem to collaborate and learn more.
 
-<br/><br/>
+<br/>
 
 ## 📊 My GitHub statistics
 ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)
 
 
-🦜 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my mail.</a>
+🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my mail.</a>
 
-<br/><br/>
+<br/>
 
 ## 🤳🏾 Contact me on my socials
 
@@ -39,6 +41,12 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/fps8k">Twitter</a>
 <a href="https://instagram.com/fps8k">Instagram</a>
 <a href="https://reddit.com/u/fps16k">Reddit</a>
+
+<br/>
+
+## 📖 Check out my portfolio and new blog ❤.
+
+<a href="https://fps8k.netlify.app">fps8k</a>
 
 
 <br/><br/><br/><br/>
