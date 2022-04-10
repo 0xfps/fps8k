@@ -24,20 +24,17 @@ Here are some ideas to get you started:
 👼🏾 I am looking for people who know more than me in the Smart Contract ecosystem to collaborate and learn more.
 
 ## 📊 My GitHub statistics
-[![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)](https://github.com/anuraghazra/github-readme-stats)
+[![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)]
 
 
-🦜 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" width="20px" height="20px" color="#EA4335"/> my mail.</a>
+🦜 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my mail.</a>
 
 ## 🤳🏾 Contact me on my socials
 
-<a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" fill="#1877F2"/> Facebook</a>
-
-<a href="https://twitter.com/fps8k"><img src="https://simpleicons.org/icons/twitter.svg" width="20px" height="20px" color="#1DA1F2" style="margin-left: 10px;"/> Twitter</a>
-
-<a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px" color="#E4405F" style="margin-left: 10px;"/>Instagram</a>
-
-<a href="https://reddit.com/u/fps16k"><img src="https://simpleicons.org/icons/reddit.svg" width="20px" height="20px" color="#FF4500" style="margin-left: 10px;"/>Reddit</a>
+<a href="https://facebook.com/fps8k">Facebook</a>
+<a href="https://twitter.com/fps8k">Twitter</a>
+<a href="https://instagram.com/fps8k">Instagram</a>
+<a href="https://reddit.com/u/fps16k">Reddit</a>
 
 
 
