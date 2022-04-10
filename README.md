@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://simpleicons.org/icons/adobeacrobatreader.svg"/>
-
 My name is Anthony, fps is my nickname and a name I use across all my social media handles. I am a 19 year old male (He/Him). <br/><br/>
 
 I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
@@ -28,7 +26,7 @@ I am looking for people who know more than me in the Smart Contract ecosystem to
 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com">my email.</a>
 
 ## Contact me on my socials
-<a href="https://facebook.com/fps8k">Facebook</a> <a href="https://twitter.com/fps8k">Twitter</a> <a href="https://instagram.com/fps8k">Instagram</a> <a href="https://reddit.com/u/fps16k">Reddit</a>
+<a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px"/></a> <a href="https://twitter.com/fps8k">Twitter</a> <a href="https://instagram.com/fps8k">Instagram</a> <a href="https://reddit.com/u/fps16k">Reddit</a>
 
 
 
