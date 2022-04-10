@@ -1,4 +1,4 @@
-## Hi there 👋🏾, welcome to my Special Profile.
+## Hi there 👋🏾, welcome to my special profile.
 
 <!--
 **fps8k/fps8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 🦜 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" width="20px" height="20px" color="#EA4335"/></a>
 
 ## 🤳🏾 Contact me on my socials
-<font color="#ffffff">
-<a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" color="#1877F2"/></a>
+
+<a href="https://facebook.com/fps8k" bgcolor="#ffffff"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" color="#1877F2"/></a>
 <a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" fill="#1877F2"/></a>
 <a href="https://twitter.com/fps8k"><img src="https://simpleicons.org/icons/twitter.svg" width="20px" height="20px" color="#1DA1F2" style="margin-left: 10px;"/></a>
 <a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px" color="#E4405F" style="margin-left: 10px;"/></a>
 <a href="https://reddit.com/u/fps16k"><img src="https://simpleicons.org/icons/reddit.svg" width="20px" height="20px" color="#FF4500" style="margin-left: 10px;"/></a>
- </font>
+
 
 
 
