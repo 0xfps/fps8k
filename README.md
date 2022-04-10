@@ -31,21 +31,21 @@ Here are some ideas to get you started:
 ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)
 
 
-🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer">my mail.</a>
+> - 🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer">my mail.</a>
 
 <br/>
 
 ## 🤳🏾 Contact me on my socials
 
-<a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">Facebook</a>
-<a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">Twitter</a>
+> - <a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">Facebook</a>
+> - <a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">Twitter</a>
 <!-- <a href="https://www.linkedin.com/in/nnaemeka-umeh-b29b9020b/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
 
 <br/>
 
 ## 📖 Check out my portfolio and new blog ❤.
 
-<a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+> - <a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 
 
 <br/><br/><br/><br/>
