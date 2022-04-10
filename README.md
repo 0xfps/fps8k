@@ -1,4 +1,4 @@
-### Hi there 👋🏾, welcome to my Special Profile.
+## Hi there 👋🏾, welcome to my Special Profile.
 
 <!--
 **fps8k/fps8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,10 @@ In 2022, I developed a voracious interest for learning and writing Smart Contrac
 
 I am looking for people who know more than me in the Smart Contract ecosystem to collaborate and learn more.
 
+## My GitHub statistics
+[![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)](https://github.com/anuraghazra/github-readme-stats)
+
+
 You can ask me any thing via reaching me through email at <a href="mailto: anthony.nnaemeka.umeh@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" width="20px" height="20px" color="#EA4335"/></a>
 
 ## Contact me on my socials
@@ -31,9 +35,6 @@ You can ask me any thing via reaching me through email at <a href="mailto: antho
 <a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px" color="#E4405F" style="margin-left: 10px;"/></a>
 <a href="https://reddit.com/u/fps16k"><img src="https://simpleicons.org/icons/reddit.svg" width="20px" height="20px" color="#FF4500" style="margin-left: 10px;"/></a>
 
-<p align="center">
-  [![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 <br/><br/><br/><br/>
