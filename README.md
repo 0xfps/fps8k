@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 
 <br/><br/><br/><br/>
-_...This README is constantly being updated..._
+_**PS:** This README is constantly being updated._
