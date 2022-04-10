@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🤳🏾 Contact me on my socials
 
-<a href="https://facebook.com/fps8k" bgcolor="#ffffff"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" color="#1877F2"/></a>
+<span bgcolor="#ffffff">Hello</span>
 <a href="https://facebook.com/fps8k"><img src="https://simpleicons.org/icons/facebook.svg" width="20px" height="20px" fill="#1877F2"/></a>
 <a href="https://twitter.com/fps8k"><img src="https://simpleicons.org/icons/twitter.svg" width="20px" height="20px" color="#1DA1F2" style="margin-left: 10px;"/></a>
 <a href="https://instagram.com/fps8k"><img src="https://simpleicons.org/icons/instagram.svg" width="20px" height="20px" color="#E4405F" style="margin-left: 10px;"/></a>
