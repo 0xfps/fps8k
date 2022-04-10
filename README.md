@@ -1,4 +1,4 @@
-### Hi there 👋🏾, welcomt to my Special Profile.
+### Hi there 👋🏾, welcome to my Special Profile.
 
 <!--
 **fps8k/fps8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Anthony, fps is my nickname and a name I use across all my social media handles. I am a 19 year old male (He/Him). <br/><br/>
+
+I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
+
+In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a lot. My repository < a target='_blank' href='https://www.flaticon.com/premium-icon/smart-contracts_3605288?term=smart%20contracts&page=1&position=5&page=1&position=5&related_id=3605288&origin=search'>`my-solidity`</a>
