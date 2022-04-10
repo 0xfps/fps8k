@@ -31,4 +31,4 @@ You can ask me any thing via reaching me through email at <a href="mailto: antho
 
 
 <br/><br/><br/><br/><br/><br/>
-_...This is constantly being updated..._
+_...This README is constantly being updated..._
