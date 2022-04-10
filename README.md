@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏾‍🦱 My name is Anthony, fps is my nickname and a name I use across all my social media handles. I am a 19 year old male (He/Him). <br/><br/>
+👨🏾‍🦱 My name is Anthony, fps is my nickname. I am a 19 year old male (He/Him). <br/><br/>
 
 💻 I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
 
-🧠📝 In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a lot. My repository <a target='_blank' href='https://github.com/fps8k/my-solidity'>`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written.
+🧠📝 In 2022, I developed a voracious interest for learning and writing Smart Contracts, deployable on the Ethereum network, and so far I have learnt a whole lot. My repository <a target='_blank' href='https://github.com/fps8k/my-solidity'>`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written. And I have also forked a lot of repos that I read and learn their Smart Contract codes.
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
@@ -37,17 +37,16 @@ Here are some ideas to get you started:
 
 ## 🤳🏾 Contact me on my socials
 
-<a href="https://facebook.com/fps8k">Facebook</a>
-<a href="https://twitter.com/fps8k">Twitter</a>
-<a href="https://instagram.com/fps8k">Instagram</a>
-<a href="https://reddit.com/u/fps16k">Reddit</a>
+<a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">Facebook</a>
+<a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">Twitter</a>
+<!-- <a href="https://www.linkedin.com/in/nnaemeka-umeh-b29b9020b/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
 
 <br/>
 
 ## 📖 Check out my portfolio and new blog ❤.
 
-<a href="https://fps8k.netlify.app">fps8k</a>
+<a href="https://fps8k.netlify.app">My Portfolio</a>
 
 
 <br/><br/><br/><br/>
-_**PS:** This README is constantly being updated._
+_**PS:** This special profile is constantly being updated._
