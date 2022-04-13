@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fps8k&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-@anthony-red?style=for-the-badge&logo=appveyor" alt="Gmail Badge"/></a>
+- 🦜 You can ask me any thing by reaching me through <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/></a>
 
 ---
 
