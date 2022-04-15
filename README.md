@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏾‍🦱 My name is Anthony, fps is my nickname. I am a 19 year old male (He/Him).
+- 👨🏾‍🦱 My name is Anthony Nnaemeka. I am a 19 year old male (**Pronouns:** He/Him).
 
 - 💻 I started my programming journey in August 2018, with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
 
