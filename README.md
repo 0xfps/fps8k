@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
 - 👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to collaborate and learn more and grow.
-
+https://github.com/ethereum/solidity/issues/new?template=bug_report.md&projects=ethereum/solidity/43&labels=bug+%3Abug%3A
 ---
 
 ## ⚔ Languages and tools
