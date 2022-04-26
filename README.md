@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏾‍🦱 My name is Anthony Nnaemeka. **Gender:** Male, **Pronouns:** He/Him.
+- 👨🏾‍🦱 My name is Nnaemeka Umeh. **Gender:** Male, **Pronouns:** He/Him.
 
 - 💻 I started my programming journey with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
 
