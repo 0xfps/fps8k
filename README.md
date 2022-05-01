@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚔ Languages and tools
+## ⚔ Languages and tools.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 My GitHub statistics <!-- <img src="https://gpvc.arturio.dev/fps8k"/> -->
+## 📊 My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/fps8k"/> -->
 <!-- ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fps8k&show_icons=true&theme=dark" width="400"> -->
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🤳🏾 Contact me on my socials
+## 🤳🏾 Send a DM.
 
 
 <a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">
