@@ -63,9 +63,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Twitter-@fps8k-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/>
 </a>
 
-<a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/Facebook-fps8k-informational?style=for-the-badge&logo=appveyor" alt="Facebook Badge"/>
-</a>
+</a> -->
 
 <!-- <a href="https://reddit.com/user/fps16k" target="_blank" rel="noopener noreferrer"> -->
 <!--   <img src="https://img.shields.io/badge/Reddit-@fps16k-orange?style=for-the-badge&logo=appveyor" alt="Reddit Badge"/> -->
