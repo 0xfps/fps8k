@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📖 Check out my portfolio and new blog ❤.
+## 📖 Check out my portfolio ❤.
 
 - <a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-fps8k-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
 
