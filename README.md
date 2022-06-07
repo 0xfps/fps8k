@@ -1,3 +1,7 @@
+<p align="center">
+  <br><img src="https://github.com/fps8k/fps8k/blob/dev/code-gif.gif" width="350px" height="350px"><br><br>
+</p>
+
 ## Hi there, I'm fps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, and welcome to my special profile.
 
 <!--
@@ -61,7 +65,12 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-@fps8k-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/>
+<!--   <img src="https://img.shields.io/badge/Twitter-@fps8k-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/> -->
+  <img alt="fps8k - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+
+<a href="https://wa.me/2348156213793" target="_blank" rel="noopener noreferrer">
+  <img alt="fps8k - WhatsApp" width="25px" height="25px" src="https://img.icons8.com/color/48/undefined/whatsapp--v2.png"/>
 </a>
 
 <!-- <a href="https://facebook.com/fps8k" target="_blank" rel="noopener noreferrer">
@@ -80,6 +89,9 @@ Here are some ideas to get you started:
 - <a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-fps8k-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
 
 ---
+<br/><br/>
 
-<br/><br/><br/><br/>
+## Thank you for visiting my profile.
+
+<br/><br/>
 _**PS:** This special profile is constantly being updated._
