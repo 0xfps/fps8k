@@ -1,5 +1,5 @@
 <p align="center">
-  <br><img src="https://github.com/fps8k/fps8k/blob/dev/code-gif.gif" width="350px"><br><br>
+  <br><img src="https://github.com/fps8k/fps8k/blob/dev/code-gif.gif" width="300px" height="300px"><br><br>
 </p>
 
 ## Hi there, I'm fps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, and welcome to my special profile.
