@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏾‍🦱 My name is Nnaemeka Umeh. **Gender:** Male, **Pronouns:** He/Him.
+👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-- 💻 I started my programming journey with web development, starting with the frontend HTML, CSS, then Javascript and backend PHP and MySQL, then finally, Bootstrap.
+🧠 A voracious learner and Smart Contracts developer, deployable on the Ethereum network.
 
-- 🧠📝 I am a voracious learner and writer of Smart Contracts, deployable on the Ethereum network, and so far I have learnt a whole lot. My repository <a href='https://github.com/fps8k/my-solidity' target="_blank" rel="noopener noreferrer">`my-solidity`</a> has been a compilation of all the major and minor smart contracts I've written. And I have also forked a lot of repos that I read and learn their Smart Contract codes.
+📝 My projects include NFTs, Smart Contracts, ERC20 tokens and more.
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
-- 👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to collaborate and learn more and grow.
+👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to grow with.
 
 ---
 
