@@ -80,6 +80,3 @@ Here are some ideas to get you started:
 <br/>
 
 ## Thank you for visiting my profile.
-<br/>
-
-_**PS:** This special profile is constantly being updated._
