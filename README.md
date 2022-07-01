@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://reddit.com/user/fps16k" target="_blank" rel="noopener noreferrer"> -->
 <!--   <img src="https://img.shields.io/badge/Reddit-@fps16k-orange?style=for-the-badge&logo=appveyor" alt="Reddit Badge"/> -->
 <!-- </a> -->
-<!-- <a href="https://www.linkedin.com/in/nnaemeka-umeh-b29b9020b/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
+<!-- <a href="https://www.linkedin.com/in/fps8k/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
 <br/>
 
 ## Check out my portfolio.
