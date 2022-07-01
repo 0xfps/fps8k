@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
-👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to grow with.
+👼🏾 Always ready to learn.
 <br/>
 
 ## ⚔ Languages and tools.
