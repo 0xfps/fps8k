@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 
 👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-🧠 A voracious learner and Smart Contracts developer, deployable on the Ethereum network.
+🧠 Smart Contracts developer, deployable on the Ethereum network.
 
 📝 My projects include NFTs, Smart Contracts, ERC20 tokens and more.
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
 👼🏾 I am looking for people who know more than I do in the Smart Contract ecosystem to grow with.
-
----
+<br/>
 
 ## ⚔ Languages and tools.
 <div>
@@ -44,9 +43,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp; -->
 </div>
 
----
-
-<!--## 📊 My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/fps8k"/> -->
+## My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/fps8k"/> -->
 <!-- ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fps8k) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fps8k&show_icons=true&theme=dark" width="400"> -->
 <!--
@@ -56,15 +53,9 @@ Here are some ideas to get you started:
 
 [![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fps8k&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+🦜 <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
 
-
-- 🦜 <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
-
----
-
-## 🤳🏾 Send a DM.
-
-
+## Send a DM.
 <a href="https://twitter.com/fps8k" target="_blank" rel="noopener noreferrer">
 <!--   <img src="https://img.shields.io/badge/Twitter-@fps8k-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/> -->
   <img alt="fps8k - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
@@ -82,17 +73,13 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Reddit-@fps16k-orange?style=for-the-badge&logo=appveyor" alt="Reddit Badge"/> -->
 <!-- </a> -->
 <!-- <a href="https://www.linkedin.com/in/nnaemeka-umeh-b29b9020b/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
+<br/>
 
----
-
-## 📖 Check out my portfolio ❤.
-
-- <a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-fps8k-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
-
----
-<br/><br/>
+## Check out my portfolio.
+<a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-fps8k-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
+<br/>
 
 ## Thank you for visiting my profile.
+<br/>
 
-<br/><br/>
 _**PS:** This special profile is constantly being updated._
