@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-🧠 Smart Contracts developer, deployable on the Ethereum network.
+🧠 Smart Contracts developer with Solidity and Brownie Python, deployable on the Ethereum network.
 
 📝 My projects include NFTs, Smart Contracts, ERC20 tokens and more.
 
